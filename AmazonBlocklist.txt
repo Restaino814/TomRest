@@ -5,6 +5,11 @@
 ||154-101.amazon.com^
 ||154-102.amazon.com^
 ||154-103.amazon.com^
+||154-104.amazon.com^
+||154-105.amazon.com^
+||154-106.amazon.com^
+||154-107.amazon.com^
+||154-108.amazon.com^
 ||*.a2z.com^
 ||*.aiv-delivery.net^
 ||*.pop-iad-2.cf.dash.row.aiv-cdn.net^
